@@ -1,2 +1,2 @@
 # Trabalho-Restaurante
-trabalho
+Um sistema de restaurante é uma solução tecnológica projetada para automatizar e gerenciar diversas operações dentro de um estabelecimento gastronômico, desde o atendimento ao cliente até o controle de estoque. Ele integra funcionalidades como o registro de pedidos de maneira digital, conectando garçom e cozinha em tempo real, a emissão de notas fiscais, o controle de mesas e reservas, além da gestão de inventário, ajudando a evitar desperdícios e garantindo que os ingredientes estejam sempre disponíveis. Além disso, o sistema permite monitorar o desempenho do restaurante por meio de relatórios financeiros e de vendas, otimizando a eficiência e a experiência do cliente.
